@@ -41,8 +41,6 @@ beyond-ai-disruption/
 
 The book develops six original frameworks across nine chapters, grounded in game theory, institutional economics, and psychometric trust modelling.
 
-→ [Download book.pdf](./book.pdf)
-
 ---
 
 ## The Frameworks
@@ -116,7 +114,7 @@ Suggested prompts:
 Founder & CEO, Esync Deep Ltd
 Middlesbrough, Teesside, UK · Company No. 16505712
 
-→ [Esync Deep](https://esynkdeep.com)
+→ [Esync Deep](https://esyncdeep.com)
 → [GitHub Repository](https://github.com/EsyncDeepCode/beyond-ai-disruption)
 → [GitHub Pages](https://EsyncDeepCode.github.io/beyond-ai-disruption)
 → [LinkedIn](https://linkedin.com/in/mohammad-el-dharrat)

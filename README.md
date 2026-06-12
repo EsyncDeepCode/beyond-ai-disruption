@@ -1,3 +1,5 @@
+This is Property of Esync Deep Ltd 
+
 # Beyond AI Disruption
 ### Mohammad EL-Dharrat · Esync Deep Ltd
 

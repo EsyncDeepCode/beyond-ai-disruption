@@ -1,4 +1,4 @@
-This is Property of Esync Deep Ltd 
+This is Property of Esync Deep Ltd source https://zenodo.org/records/20665328 Esyncdeep.com
 
 # Beyond AI Disruption
 ### Mohammad EL-Dharrat · Esync Deep Ltd

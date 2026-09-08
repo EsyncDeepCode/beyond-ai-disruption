@@ -1,6 +1,6 @@
 # GI-004 · Stabilization Index
 ## Beyond AI Disruption — Framework Registry
-**Author:** Mohammad EL-Dharrat · Esync Deep Ltd · © 2026
+**Author:** Mohammed EL-Dharrat · Esync Deep Ltd · © 2026
 
 ---
 

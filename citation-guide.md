@@ -1,7 +1,7 @@
 # Citation Guide
 ## Beyond AI Disruption — Esync Deep Ltd
 
-**Author:** Mohammad EL-Dharrat
+**Author:** Mohammed EL-Dharrat
 **Publisher:** Esync Deep Ltd (Company No. 16505712)
 **Year:** 2026
 **Format:** Living Document Specification v1.0
@@ -14,10 +14,10 @@
 EL-Dharrat, M. (2026). *Beyond AI disruption*. Esync Deep Ltd.
 
 ### Chicago Author-Date
-EL-Dharrat, Mohammad. 2026. *Beyond AI Disruption*. Middlesbrough: Esync Deep Ltd.
+EL-Dharrat, Mohammed. 2026. *Beyond AI Disruption*. Middlesbrough: Esync Deep Ltd.
 
 ### MLA 9th Edition
-EL-Dharrat, Mohammad. *Beyond AI Disruption*. Esync Deep Ltd, 2026.
+EL-Dharrat, Mohammed. *Beyond AI Disruption*. Esync Deep Ltd, 2026.
 
 ### Harvard
 EL-Dharrat, M. (2026) *Beyond AI Disruption*. Middlesbrough: Esync Deep Ltd.
@@ -52,7 +52,7 @@ EL-Dharrat, M. (2026). *Regulatory Moat* [GI-005]. In *Beyond AI disruption* (Ch
 
 If you adopt The Living Document Specification (v1.0) to structure your own work, include the following in your document's front matter:
 
-> *"This work is structured using The Living Document Specification (v1.0), pioneered and open-sourced by Mohammad EL-Dharrat (Esync Deep Ltd)."*
+> *"This work is structured using The Living Document Specification (v1.0), pioneered and open-sourced by Mohammed EL-Dharrat (Esync Deep Ltd)."*
 
 Licence: CC BY 4.0 — [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)
 
@@ -64,16 +64,16 @@ EL-Dharrat, M. (2026). *The Living Document Specification (v1.0)* [Open-source p
 
 ## Citing This Repository
 
-EL-Dharrat, M. (2026). *Beyond AI Disruption — Open Access Repository* [GitHub repository]. Esync Deep Ltd. https://github.com/EsyncDeepCode/beyond-ai-disruption
+EL-Dharrat, M. (2026). *Beyond AI Disruption — Open Access Repository* [GitHub repository]. Esync Deep Ltd. https://github.com/EsyncDeepCode/beyond-ai-disruption / https://www.linkedin.com/in/meldharrat/
 
 ---
 
 ## Rights & Permissions
 
-**Book content:** © 2026 Mohammad EL-Dharrat, Esync Deep Ltd. All rights reserved. No reproduction of book prose, chapter text, or diagnostic tools without written permission.
+**Book content:** © 2026 Mohammed EL-Dharrat, Esync Deep Ltd. All rights reserved. No reproduction of book prose, chapter text, or diagnostic tools without written permission.
 
-**Framework names, IDs, and methodologies:** © 2026 Mohammad EL-Dharrat, Esync Deep Ltd. Frameworks may be cited and referenced with attribution. They may not be republished, repackaged, or relicensed without written permission.
+**Framework names, IDs, and methodologies:** © 2026 Mohammed EL-Dharrat, Esync Deep Ltd. Frameworks may be cited and referenced with attribution. They may not be republished, repackaged, or relicensed without written permission.
 
 **Living Document Specification (structural format only):** CC BY 4.0. Free to use, adapt, and redistribute with attribution.
 
-**Enquiries:** Contact Esync Deep Ltd, Suite 1A, The Tad Centre, Middlesbrough, Teesside, UK.
+**Enquiries:** Contact Esync Deep Ltd, www.esyncdeep.com/contact / https://www.linkedin.com/in/meldharrat/ / Middlesbrough, Teesside, UK.

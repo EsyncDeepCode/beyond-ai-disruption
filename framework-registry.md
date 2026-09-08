@@ -1,8 +1,8 @@
 # Framework Registry
 ## Beyond AI Disruption — Esync Deep Ltd
-**Author:** Mohammad EL-Dharrat | **Version:** 1.0 | **Year:** 2026
+**Author:** Mohammed EL-Dharrat | **Version:** 1.0 | **Year:** 2026
 
-All frameworks are original intellectual property of Mohammad EL-Dharrat, Esync Deep Ltd (Company No. 16505712). Framework names, IDs, and methodologies are © 2026 Esync Deep Ltd.
+All frameworks are original intellectual property of Mohammed EL-Dharrat, Esync Deep Ltd (Company No. 16505712). Framework names, IDs, and methodologies are © 2026 Esync Deep Ltd.
 
 ---
 

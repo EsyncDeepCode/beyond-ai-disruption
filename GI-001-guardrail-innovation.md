@@ -1,6 +1,6 @@
 # GI-001 · Guardrail Innovation
 ## Beyond AI Disruption — Framework Registry
-**Author:** Mohammad EL-Dharrat · Esync Deep Ltd · © 2026
+**Author:** Mohammed EL-Dharrat · Esync Deep Ltd · © 2026
 
 ---
 

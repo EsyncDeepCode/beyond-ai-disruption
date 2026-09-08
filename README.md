@@ -1,7 +1,7 @@
 This is Property of Esync Deep Ltd source https://zenodo.org/records/20665328 Esyncdeep.com
 
 # Beyond AI Disruption
-### Mohammad EL-Dharrat · Esync Deep Ltd
+### Mohammed EL-Dharrat · Esync Deep Ltd
 
 > *"The companies that will define the next decade are not the ones disrupting markets. They are the ones building the guardrails that make disruption governable."*
 
@@ -11,7 +11,7 @@ This is Property of Esync Deep Ltd source https://zenodo.org/records/20665328 Es
 
 This is the official open-access repository for **Beyond AI Disruption** — a 70-page book on Guardrail Innovation, the Trust Curve, and the structural forces shaping AI market evolution.
 
-The book is published using **The Living Document Specification (v1.0)** — an open-source format engineered for dual-cognitive processing. Every chapter is structured to serve human readers and AI agents simultaneously through four explicit layers: Value, Deep Dive, Business Hook, and Metadata.
+The book is published using **The Living Document Specification (v1.0)** — an open-source format engineered for dual-cognitive processing. Every chapter is structured to serve human readers and AI agents simultaneously through four explicit layers: Value, Deep Dive, Business Hook and Metadata.
 
 This repository is the fastest path to the work. No gatekeeping. No delay.
 
@@ -61,7 +61,7 @@ Full framework definitions, diagnostics, and audit tools are in [`framework-regi
 
 ## The Living Document Specification
 
-This book is the first published work structured under **The Living Document Specification (v1.0)** — an open-source publishing architecture pioneered by Mohammad EL-Dharrat.
+This book is the first published work structured under **The Living Document Specification (v1.0)** — an open-source publishing architecture pioneered by Mohammed EL-Dharrat.
 
 The specification mandates four explicit layers per chapter:
 
@@ -73,7 +73,7 @@ The specification mandates four explicit layers per chapter:
 The structural format is open-sourced under **CC BY 4.0**. You are free to use it for any work, commercial or non-commercial, with attribution.
 
 **Required attribution:**
-> *"This work is structured using The Living Document Specification (v1.0), pioneered and open-sourced by Mohammad EL-Dharrat (Esync Deep Ltd)."*
+> *"This work is structured using The Living Document Specification (v1.0), pioneered and open-sourced by Mohammed EL-Dharrat (Esync Deep Ltd)."*
 
 → See [`citation-guide.md`](./citation-guide.md) for full attribution and citation formats.
 
@@ -102,7 +102,7 @@ Suggested prompts:
 
 ## Licence
 
-**Book content:** © 2026 Mohammad EL-Dharrat, Esync Deep Ltd. All rights reserved.
+**Book content:** © 2026 Mohammed EL-Dharrat, Esync Deep Ltd. All rights reserved.
 
 **Living Document Specification (structural format):** CC BY 4.0 — [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)
 

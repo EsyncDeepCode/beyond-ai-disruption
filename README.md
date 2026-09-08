@@ -106,7 +106,7 @@ Suggested prompts:
 
 **Living Document Specification (structural format):** CC BY 4.0 — [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)
 
-**Framework names and IDs (GI-001 through GI-005):** © 2026 Mohammad EL-Dharrat, Esync Deep Ltd.
+**Framework names and IDs (GI-001 through GI-005):** © 2026 Mohammed EL-Dharrat, Esync Deep Ltd.
 
 ---
 

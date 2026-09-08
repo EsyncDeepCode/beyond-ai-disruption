@@ -41,7 +41,7 @@ beyond-ai-disruption/
 
 **Beyond AI Disruption** examines why the dominant competitive advantage in AI markets is not disruption itself — but the institutional capacity to contain, govern, and stabilise it.
 
-The book develops six original frameworks across nine chapters, grounded in game theory, institutional economics, and psychometric trust modelling.
+The book develops six original frameworks across nine chapters, grounded in game theory, institutional economics and psychometric trust modelling.
 
 ---
 
@@ -112,11 +112,11 @@ Suggested prompts:
 
 ## Author
 
-**Mohammad EL-Dharrat**
-Founder & CEO, Esync Deep Ltd
+**Mohammed EL-Dharrat**
+Founder & Director, Esync Deep Ltd
 Middlesbrough, Teesside, UK · Company No. 16505712
 
 → [Esync Deep](https://esyncdeep.com)
 → [GitHub Repository](https://github.com/EsyncDeepCode/beyond-ai-disruption)
 → [GitHub Pages](https://EsyncDeepCode.github.io/beyond-ai-disruption)
-→ [LinkedIn](https://linkedin.com/in/mohammad-el-dharrat)
+→ [LinkedIn](https://www.linkedin.com/in/meldharrat/)
